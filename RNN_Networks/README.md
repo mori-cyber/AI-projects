@@ -8,3 +8,7 @@ In the code of LSTM_FROM_SCRACH, we have designed an LSTM network from scratch w
 
 ![image](https://github.com/mori-cyber/AI-projects/assets/65276280/6ee75844-376d-40ca-b964-d18f954e80e9)
 
+![image](https://github.com/mori-cyber/AI-projects/assets/65276280/1b93e6c2-217d-49a9-8b7f-343e4deddb59)
+![image](https://github.com/mori-cyber/AI-projects/assets/65276280/cf278650-8eaa-4b30-83a7-ce6470690f89)
+
+
