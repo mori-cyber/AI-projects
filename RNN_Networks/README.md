@@ -11,4 +11,8 @@ In the code of LSTM_FROM_SCRACH, we have designed an LSTM network from scratch w
 ![image](https://github.com/mori-cyber/AI-projects/assets/65276280/1b93e6c2-217d-49a9-8b7f-343e4deddb59)
 ![image](https://github.com/mori-cyber/AI-projects/assets/65276280/cf278650-8eaa-4b30-83a7-ce6470690f89)
 
+In the code lipreading, we uploaded videos of a person named Joone Del on the RNN networks to perform the lip reading work of this person and recognize the words "thank God".
+
+![image](https://github.com/mori-cyber/AI-projects/assets/65276280/da5ccea0-29bc-4761-8efe-c93de9f36295)
+
 
