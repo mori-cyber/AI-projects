@@ -4,7 +4,7 @@ In the code of LSTM_FROM_SCRACH, we have designed an LSTM network from scratch w
 
 ![image](https://github.com/mori-cyber/AI-projects/assets/65276280/f04b74a6-8a9d-41af-be4e-7daa242aa076)
 
-#### In the code... we have created a sequence of the movement of a geometric shape as frames and we have tried this sequence on three simple RNN networks, LSTM and GRU, and compared their accuracy. As a result, the accuracy of GRU is higher than all other recurrent networks. This will be a geometric doubt to estimate the next move.
+#### In the code ball_frames_Accuracy_comparision we have created a sequence of the movement of a geometric shape as frames and we have tried this sequence on three simple RNN networks, LSTM and GRU, and compared their accuracy. As a result, the accuracy of GRU is higher than all other recurrent networks. This will be a geometric doubt to estimate the next move.
 
 ![image](https://github.com/mori-cyber/AI-projects/assets/65276280/6ee75844-376d-40ca-b964-d18f954e80e9)
 
