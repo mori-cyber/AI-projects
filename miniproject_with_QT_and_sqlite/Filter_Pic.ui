@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>Face_Detection</class>
+ <widget class="QWidget" name="Face_Detection">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>500</width>
+    <height>500</height>
+   </rect>
+  </property>
+  <property name="minimumSize">
+   <size>
+    <width>500</width>
+    <height>500</height>
+   </size>
+  </property>
+  <property name="maximumSize">
+   <size>
+    <width>500</width>
+    <height>500</height>
+   </size>
+  </property>
+  <property name="windowTitle">
+   <string>Face_Detection</string>
+  </property>
+  <property name="styleSheet">
+   <string notr="true">background-color: rgb(0, 85, 255);</string>
+  </property>
+  <widget class="QPushButton" name="Q1_1">
+   <property name="geometry">
+    <rect>
+     <x>10</x>
+     <y>10</y>
+     <width>151</width>
+     <height>111</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>pic1</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="Q1_2">
+   <property name="geometry">
+    <rect>
+     <x>180</x>
+     <y>10</y>
+     <width>141</width>
+     <height>111</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>pic2</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="Q1_3">
+   <property name="geometry">
+    <rect>
+     <x>340</x>
+     <y>10</y>
+     <width>141</width>
+     <height>111</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>pic3</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="Q1_4">
+   <property name="geometry">
+    <rect>
+     <x>14</x>
+     <y>132</y>
+     <width>141</width>
+     <height>111</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>pic4</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="Q1_5">
+   <property name="geometry">
+    <rect>
+     <x>174</x>
+     <y>130</y>
+     <width>151</width>
+     <height>111</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>pic5</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="Q1_6">
+   <property name="geometry">
+    <rect>
+     <x>344</x>
+     <y>132</y>
+     <width>141</width>
+     <height>111</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>pic6</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="Q1_7">
+   <property name="geometry">
+    <rect>
+     <x>14</x>
+     <y>250</y>
+     <width>141</width>
+     <height>111</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>pic7</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="Q1_8">
+   <property name="geometry">
+    <rect>
+     <x>174</x>
+     <y>250</y>
+     <width>151</width>
+     <height>111</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>pic8</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="Q1_9">
+   <property name="geometry">
+    <rect>
+     <x>344</x>
+     <y>250</y>
+     <width>141</width>
+     <height>111</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>pic9</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label">
+   <property name="geometry">
+    <rect>
+     <x>50</x>
+     <y>390</y>
+     <width>381</width>
+     <height>51</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <pointsize>14</pointsize>
+    </font>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">background-color: rgb(255, 255, 255);</string>
+   </property>
+   <property name="text">
+    <string>Filtering</string>
+   </property>
+   <property name="alignment">
+    <set>Qt::AlignCenter</set>
+   </property>
+  </widget>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>
